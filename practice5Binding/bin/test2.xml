@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfAutomobile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Automobile>
+    <Mark>Nissan</Mark>
+    <Model>Silvia s15</Model>
+    <YearOfRelease>1999</YearOfRelease>
+    <HorsePower>790</HorsePower>
+    <ImageFile>C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\Images\silvia.jpg</ImageFile>
+  </Automobile>
+  <Automobile>
+    <Mark>Toyota</Mark>
+    <Model>Mark 2 81</Model>
+    <YearOfRelease>1981</YearOfRelease>
+    <HorsePower>888</HorsePower>
+    <ImageFile>C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\Images\mark2.jpg</ImageFile>
+  </Automobile>
+</ArrayOfAutomobile>

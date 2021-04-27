@@ -1,0 +1,9 @@
+C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\bin\Debug\practice5Binding.exe.config
+C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\bin\Debug\practice5Binding.exe
+C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\bin\Debug\practice5Binding.pdb
+C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\obj\Debug\practice5Binding.csprojAssemblyReference.cache
+C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\obj\Debug\practice5Binding.Properties.Resources.resources
+C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\obj\Debug\practice5Binding.csproj.GenerateResource.cache
+C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\obj\Debug\practice5Binding.csproj.CoreCompileInputs.cache
+C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\obj\Debug\practice5Binding.exe
+C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\obj\Debug\practice5Binding.pdb

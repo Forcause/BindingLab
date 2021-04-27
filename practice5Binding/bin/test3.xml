@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<ArrayOfAutomobile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Automobile>
+    <Mark>Nissan</Mark>
+    <Model>Silvia s15</Model>
+    <YearOfRelease>1999</YearOfRelease>
+    <HorsePower>790</HorsePower>
+    <ImageFile>C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\Images\silvia.jpg</ImageFile>
+  </Automobile>
+  <Automobile>
+    <Mark>Toyota</Mark>
+    <Model>Mark 2 81</Model>
+    <YearOfRelease>1981</YearOfRelease>
+    <HorsePower>888</HorsePower>
+    <ImageFile>C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\Images\mark2.jpg</ImageFile>
+  </Automobile>
+  <Automobile>
+    <Mark>Mazda</Mark>
+    <Model>RX-7</Model>
+    <YearOfRelease>1992</YearOfRelease>
+    <HorsePower>265</HorsePower>
+    <ImageFile>C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\Images\rx7.jpg</ImageFile>
+  </Automobile>
+  <Automobile>
+    <Mark>Honda</Mark>
+    <Model>Civic ek9</Model>
+    <YearOfRelease>1997</YearOfRelease>
+    <HorsePower>115</HorsePower>
+    <ImageFile>C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\Images\civic.jpg</ImageFile>
+  </Automobile>
+  <Automobile>
+    <Mark>Toyota</Mark>
+    <Model>Supra A80</Model>
+    <YearOfRelease>1993</YearOfRelease>
+    <HorsePower>330</HorsePower>
+    <ImageFile>C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\Images\supra.jpg</ImageFile>
+  </Automobile>
+  <Automobile>
+    <Mark>Nissan</Mark>
+    <Model>Skyline r32</Model>
+    <YearOfRelease>1989</YearOfRelease>
+    <HorsePower>225</HorsePower>
+    <ImageFile>C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\Images\sky.jpg</ImageFile>
+  </Automobile>
+  <Automobile>
+    <Mark>eqweqw</Mark>
+    <Model>ewqeq</Model>
+    <YearOfRelease>2010</YearOfRelease>
+    <HorsePower>500</HorsePower>
+    <ImageFile>C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\Images\supra.jpg</ImageFile>
+  </Automobile>
+  <Automobile>
+    <Mark>Nissan</Mark>
+    <Model>Hakosuka</Model>
+    <YearOfRelease>1986</YearOfRelease>
+    <HorsePower>160</HorsePower>
+    <ImageFile>C:\Users\Forcause\RiderProjects\practice5Binding\practice5Binding\Images\hakosuka.jpg</ImageFile>
+  </Automobile>
+</ArrayOfAutomobile>
